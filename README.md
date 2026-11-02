@@ -65,8 +65,8 @@ Display all filtered images using a grid layout for comparison.
 
 ##  Developed By
 
-## Name: Priyadharshini S  
-### Register No: 212225230218  
+## Name: Sharan Kumar G 
+### Register No: 212224230260  
 
 ### Smoothing Filters
 
@@ -139,23 +139,30 @@ plt.show()
 ### Smoothing Filters
 
 - Averaging filter produces blurred image  
-<img width="692" height="692" alt="image" src="https://github.com/user-attachments/assets/17268acd-d63d-48a8-b031-db005f921727" />
+<img width="907" height="551" alt="image" src="https://github.com/user-attachments/assets/19e6da52-e371-466a-8017-5de9e3922562" />
+
 
 - Weighted averaging provides smoother result with less distortion
-<img width="250" height="387" alt="image" src="https://github.com/user-attachments/assets/a37fe34d-a9a8-4acd-9689-664f4e12413d" />
+<img width="672" height="411" alt="image" src="https://github.com/user-attachments/assets/e541b7d4-7ecd-4117-a7e7-e50b251410ec" />
+
 
 - Gaussian filter preserves edges better while reducing noise  
-<img width="167" height="382" alt="image" src="https://github.com/user-attachments/assets/0ffe1cab-6603-444b-b5dd-5d7df8e6d9ba" />
+<img width="645" height="398" alt="image" src="https://github.com/user-attachments/assets/b67471eb-c5d9-4af2-bfa7-8ee621a295a7" />
+
 
 - Median filter removes salt-and-pepper noise effectively  
+<img width="902" height="563" alt="image" src="https://github.com/user-attachments/assets/5d5af639-7856-4b4a-a16c-ff190e8fbd3f" />
+
+
 
 ###  Sharpening Filters
 
 - Laplacian kernel enhances edges and fine details  
-<img width="187" height="385" alt="image" src="https://github.com/user-attachments/assets/8c3fff14-2b89-4de7-a67f-d6ea632faf0f" />
+<img width="640" height="407" alt="image" src="https://github.com/user-attachments/assets/2e8faee8-105a-411e-91d0-0774edf8dd9d" />
 
 - Laplacian operator detects edges clearly in grayscale  
-<img width="187" height="380" alt="image" src="https://github.com/user-attachments/assets/0fe1552e-f3da-4c95-b5f9-900f807bf3f1" />
+<img width="647" height="403" alt="image" src="https://github.com/user-attachments/assets/4c798bbc-3038-4cfb-8b7c-5ff093659f7d" />
+
 
 ---
 
